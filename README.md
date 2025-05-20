@@ -1,3 +1,16 @@
+## 🔁 Forked & Enhanced by BlockHaven
+
+This is a fork of the original DexSniping BSC/ETH Telegram Sniper Bot, optimized for use with **BlockHaven RPC infrastructure** to improve speed, reliability, and sniping accuracy.
+
+For best performance, use the following RPC endpoints:
+
+- **BNB (PancakeSwap):** `https://bnb.blockhaven.tech`  
+- **ETH (Uniswap):** `https://eth.blockhaven.tech`  
+
+BlockHaven RPCs are low-latency, no-rate-limit endpoints designed for degens, snipers, and serious Web3 users.
+
+---
+
 ## Bot still working in 14/06/2024
 
 # 🚀 Pancakeswap BSC - Uniswap ERC-20 Sniper Bot 🚀
@@ -11,13 +24,19 @@ https://etherscan.io/tx/0x8c18fcba662a99f76f01e0032b6a512175ad643eec8e9f9ed6c7d4
 
 **For now, Telegram Alerts are under development.**
 
-## Our thanks:
+## 🙏 Shoutout
 
-BOT is free-to-use, but you are welcome to appreciate my work ☺️
+This repo is based on work by the original creator.  
+BlockHaven maintains and enhances this version with RPC integration for improved speed.
 
-ETH - 0xaAA9c55FF5ce8e6431d84BE3cf9d0Ba39742ac52
+---
+## 💸 Optional Support
 
-BNB - 0xaAA9c55FF5ce8e6431d84BE3cf9d0Ba39742ac52
+If you find this helpful, you can tip the original dev:
+
+ETH / BNB: `0xaAA9c55FF5ce8e6431d84BE3cf9d0Ba39742ac52`
+
+---
 
 # Features
 
@@ -37,7 +56,7 @@ BNB - 0xaAA9c55FF5ce8e6431d84BE3cf9d0Ba39742ac52
 Clone Repo:
 
 ```shell
-git clone https://github.com/DexSniping/DexSniping-BSC-ERC20-Telegram-Alerts.git
+git clone https://github.com/BlockHavenTech/DexSniping-BSC-ERC20-Telegram-Alerts.git
 cd DexSniping-BSC-ERC20-Telegram-Alerts
 ```
 
