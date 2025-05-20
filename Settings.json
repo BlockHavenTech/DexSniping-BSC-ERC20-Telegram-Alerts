@@ -2,7 +2,7 @@
   "metamask_address": "",
   "metamask_private_key": "",
 
-  "RPC": "https://bsc-dataseed.binance.org/",
+  "RPC": "https://bnb.blockhaven.tech",
   "GWEI_GAS": 8,
   "MaxTXFeeBNB": 0.01,
   "Slippage": 10,
